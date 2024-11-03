@@ -12,7 +12,3 @@ const filtrarProductos = function (productosArray, categoria) {
   
   module.exports = filtrarProductos;
   
-
-  function sum(a, b){
-    return a + b
-  }
